@@ -1,0 +1,33 @@
+* {
+    font-family: 'Century Gothic';
+    font-size: 15px;
+}
+
+.title {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.main {
+    background-color: #eceaea;
+}
+
+label {
+    font-weight: bold;
+}
+
+.footer {
+    padding: 14px;
+    font-weight: bold;
+}
+
+.block {
+    margin-bottom: 12px;
+}
+
+.shifts img {
+    background-color: rgb(54, 159, 167);
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 3px;
+}
